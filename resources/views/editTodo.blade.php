@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Editando todo</title>
     <!-- Styles -->
-    <link rel="stylesheet" href="/css/pico.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
 </head>
 <body>
     <h1>Editando todo</h1>

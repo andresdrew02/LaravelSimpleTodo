@@ -23,7 +23,7 @@ Bienvenido a **LaravelSimpleTodo** 🚀, una aplicación de gestión de tareas "
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/LaravelSimpleTodo.git
+   git clone https://github.com/andresdrew02/LaravelSimpleTodo.git
    ```
 
 2. Accede al directorio del proyecto:
@@ -65,6 +65,6 @@ Bienvenido a **LaravelSimpleTodo** 🚀, una aplicación de gestión de tareas "
 
 ## Contacto
 
-Si tienes alguna pregunta, comentario o sugerencia sobre LaravelSimpleTodo, no dudes en ponerte en contacto con el creador, Andrés, a través de su dirección de correo electrónico: andres@example.com.
+Si tienes alguna pregunta, comentario o sugerencia sobre LaravelSimpleTodo, no dudes en ponerte en contacto con el creador, Andrés, a través de su dirección de correo electrónico: pointed@parguelassinfronteras.com.
 
 ¡Esperamos que LaravelSimpleTodo te ayude a mantenerte organizado y productivo! 📝✅
